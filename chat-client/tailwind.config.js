@@ -21,6 +21,13 @@ export default {
         soft: "0 2px 15px rgba(0, 0, 0, 0.05)",
         message: "0 2px 8px rgba(0, 0, 0, 0.05)",
       },
+
+      fontFamily: {
+        geist: ["Geist", "sans-serif"],
+        nunito: ["Nunito Sans", "sans-serif"],
+        open: ["Open Sans", "sans-serif"],
+      },
+
       keyframes: {
         "fade-in": {
           "0%": { opacity: "0", transform: "translateY(10px)" },
@@ -37,5 +44,5 @@ export default {
       },
     },
   },
-  plugins: [require("tailwindcss-animate")],
+  plugins: [],
 };
