@@ -1,0 +1,75 @@
+# .NET build outputs
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userprefs
+*.sln.iml
+
+# Rider files
+.idea/
+*.DotSettings
+
+# ReSharper files
+_ReSharper.*/
+
+# MSTest test results
+TestResults/
+
+# NUnit test results
+TestResult.xml
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Visual Studio cache/options directory
+.vs/
+
+# Local History for Visual Studio
+.localhistory/
+
+# Rider cache folder
+.idea/
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# NuGet packages
+*.nupkg
+packages/
+
+# MSBuild output files
+msbuild.log
+msbuild.err
+msbuild.wrn
+
+# Visual Studio 2017/2019 cache/options directory
+.vs/
+
+# Local History for Visual Studio
+.localhistory/
+
+# Rider cache folder
+.idea/
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# Azure Functions
+func/ 
